@@ -1,0 +1,30 @@
+
+;squid:S1643²"Use a StringBuilder instead.(©ÖÈ©8¾Ã¼¥â-
+:squid:S1643€"Use a StringBuilder instead.(õ†ÖA8’Ñİ¯â-
+Osquid:S1611Ğ"0Remove the parentheses around the "pt" parameter(Êæ×ç8’Ñİ¯â-
+zsquid:S3923ê"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ç‡ÚŸ8’Ñİ¯â-
+qsquid:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(İñè8’Ñİ¯â-
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8’Ñİ¯â-
+nsquid:S3027µ"JPut single-quotes around ',' to use the faster "lastIndexOf(char)" method.(®ÿ¢ÿÿÿÿÿ8¾Ã¼¥â-
+Gsquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’Ñİ¯â-
+Ksquid:S1612Ü",Replace this lambda with a method reference.(Êæ×ç8’Ñİ¯â-
+Wsquid:S1611×"3Remove the parentheses around the "ccptD" parameter(Ì“‡ûÿÿÿÿ8’Ñİ¯â-
+psquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ø¥’8ÿí¤¥â-
+Psquid:S1612à",Replace this lambda with a method reference.(æ¯ÀÕüÿÿÿÿ8’Ñİ¯â-
+usquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾äØÈşÿÿÿÿ8•Å›¥â-
+ksquid:UnusedPrivateMethodz":Remove this unused private "clipFeatureCollection" method.(óÃº³ıÿÿÿÿ8î¤à±â-
+nsquid:S3027…"JPut single-quotes around ',' to use the faster "lastIndexOf(char)" method.(®ÿ¢ÿÿÿÿÿ8’Ñİ¯â-
+isquid:UnusedPrivateMethodš"7Remove this unused private "getPolylineGeoJson" method.(£İÿËùÿÿÿÿ8›œŞ¯â-
+isquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(·š‘×8î¤à±â-
+Ysquid:S1611Õ"5Remove the parentheses around the "cptLine" parameter(Ç½¸ÿùÿÿÿÿ8’Ñİ¯â-
+Osquid:S1611Ü"0Remove the parentheses around the "pt" parameter(Êæ×ç8’Ñİ¯â-
+Vsquid:S1611à"2Remove the parentheses around the "cpts" parameter(æ¯ÀÕüÿÿÿÿ8’Ñİ¯â-
+Vsquid:S1611à"2Remove the parentheses around the "cpts" parameter(æ¯ÀÕüÿÿÿÿ8’Ñİ¯â-
+Osquid:S1135^"2Complete the task associated to this TODO comment.(ÍŠ¨8âÒß§â-
+esquid:S2259´"AA "NullPointerException" could be thrown; "geo" is nullable here.(§ø•®şÿÿÿÿ8¾Ã¼¥â-
+Usquid:S1611Ë"1Remove the parentheses around the "ptD" parameter(øÆ¶³úÿÿÿÿ8’Ñİ¯â-
+hsquid:UnusedPrivateMethodf"7Remove this unused private "getPolylineGeoJson" method.(Ğ™ƒûÿÿÿÿ8î¤à±â-
+Ksquid:S1612Ğ",Replace this lambda with a method reference.(Êæ×ç8’Ñİ¯â-
+psquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…˜‘„8•Å›¥â-
+bsquid:S1155à">Use isEmpty() to check whether the collection is empty or not.(æ¯ÀÕüÿÿÿÿ8’Ñİ¯â-

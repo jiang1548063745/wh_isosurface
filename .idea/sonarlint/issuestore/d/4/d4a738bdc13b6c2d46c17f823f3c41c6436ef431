@@ -1,0 +1,30 @@
+
+psquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¿‰‰¨8Ù¯¦‡â-
+Gsquid:S1148±"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º»Ø‡â-
+Gsquid:S1148ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÜ‡â-
+Gsquid:S1148Û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ÇÏ‡â-
+Nsquid:S2093¦"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8º»Ø‡â-
+Nsquid:S2093Ø"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ûÜ‡â-
+Gsquid:S1148³"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ï»Æ‡â-
+Gsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8¢ÿÕ‡â-
+Fsquid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ù¯¦‡â-
+Gsquid:S1148û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÜ‡â-
+Gsquid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º»Ø‡â-
+\
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ôî°°ùÿÿÿÿ8ûÜ‡â-
+Gsquid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ÇÏ‡â-
+Gsquid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢ÿÕ‡â-
+Ksquid:S1905;"-Remove this unnecessary cast to "JSONObject".(Ó‹™8¿„½‡â-
+Gsquid:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Í¹²‡â-
+Gsquid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Õ¿Ô‡â-
+Gsquid:S1148º"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8º»Ø‡â-
+Gsquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ûÜ‡â-
+Nsquid:S2093Í"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8«ÇÏ‡â-
+ssquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÂêòúÿÿÿÿ8¢ÿÕ‡â-
+Gsquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ï»Æ‡â-
+Gsquid:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Í¹²‡â-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(®ï–å8Ù¯¦‡â-
+Msquid:S2093x"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Í¹²‡â-
+Nsquid:S2093«"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ï»Æ‡â-
+fsquid:S2259ÿ"GA "NullPointerException" could be thrown; "returnStr" is nullable here.(œéœ—8ûÜ‡â-
+Gsquid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«èË‡â-

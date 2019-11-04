@@ -1,0 +1,28 @@
+
+;squid:S1643å"Use a StringBuilder instead.(©ÖÈ©8éŸ¦‰â-
+psquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë²¨å8éŸ¦‰â-
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ıƒÉ£â-
+\
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ËÔŸûÿÿÿÿ8ıƒÉ£â-
+Usquid:S1135s"2Complete the task associated to this TODO comment.(ÓäÙğÿÿÿÿÿ8ß‹Š¤â-
+Gsquid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ßæ‹‰â-
+esquid:S2259ç"AA "NullPointerException" could be thrown; "geo" is nullable here.(§ø•®şÿÿÿÿ8éŸ¦‰â-
+psquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œş¥±8…ÜÙˆâ-
+psquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‚¸ü8³Üˆâ-
+bsquid:S1155Ó">Use isEmpty() to check whether the collection is empty or not.(Ê¿Å“úÿÿÿÿ8éŸ¦‰â-
+Csquid:S1659€"Declare "y" on a separate line.(—ÈÊ­şÿÿÿÿ8éŸ¦‰â-
+Psquid:S1135o"2Complete the task associated to this TODO comment.(€¶Æö8õ‡¤â-
+Usquid:S1135a"2Complete the task associated to this TODO comment.(İÙÿşÿÿÿÿ8§±†¤â-
+usquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÌ‹êûÿÿÿÿ8‰Ëİˆâ-
+~squid:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ÃŒäˆâ-
+Usquid:S1135T"2Complete the task associated to this TODO comment.(ù¿¥—üÿÿÿÿ8ÓÁ¤â-
+Tsquid:S14817"1Remove this unused "cPolygonList" local variable.(Õ§Ú¡ùÿÿÿÿ8éŸ¦‰â-
+psquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑêêŒ8…ÜÙˆâ-
+osquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(õÑ’³üÿÿÿÿ8¿êÒ¤â-
+>squid:S1659"Declare "v" on a separate line.(©õÏ8éŸ¦‰â-
+nsquid:S3027è"JPut single-quotes around ',' to use the faster "lastIndexOf(char)" method.(®ÿ¢ÿÿÿÿÿ8éŸ¦‰â-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÃŒäˆâ-
+Gsquid:S1148í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éŸ¦‰â-
+psquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ›áó8Á±Õˆâ-
+Gsquid:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8éŸ¦‰â-
+Gsquid:S16599"$Declare "height" on a separate line.(¯ĞŸ”üÿÿÿÿ8éŸ¦‰â-

@@ -1,0 +1,22 @@
+
+"squid:ClassVariableVisibilityCheck"YMake geojsonstorel a static final constant or non-public and provide accessors if needed.(Ÿ ÕÒ8ĞÄ¦†â-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(–Çúæ8ÁÀî‡â-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şæ«êÿÿÿÿÿ8èÿ¥†â-
+bsquid:S2147P"DCombine this catch with the one at line 78, which has the same body.(Â³’¾8…Ìú‡â-
+Fsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÁÀî‡â-
+Fsquid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…Ìú‡â-
+Zsquid:S1444"7Make this "public static shpfeatureSourcel" field final(¹¦û¡ıÿÿÿÿ8èÿ¥†â-
+›"squid:ClassVariableVisibilityCheck"aMake geojsonfeatureSourcel a static final constant or non-public and provide accessors if needed.(ê®‰Æúÿÿÿÿ8ĞÄ¦†â-
+Qsquid:S1444"3Make this "public static geojsonstorel" field final(Ÿ ÕÒ8ĞÄ¦†â-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ€½8¤İä†â-
+bsquid:S21476"DCombine this catch with the one at line 52, which has the same body.(Â³’¾8–Äï‡â-
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(–Çúæ8…Ìú‡â-
+"squid:ClassVariableVisibilityCheck"UMake shpstorel a static final constant or non-public and provide accessors if needed.(ô—¡ƒıÿÿÿÿ8ĞÄ¦†â-
+Rsquid:S1444"/Make this "public static shpstorel" field final(ô—¡ƒıÿÿÿÿ8ĞÄ¦†â-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8–Äï‡â-
+^squid:S1444";Make this "public static geojsonfeatureSourcel" field final(ê®‰Æúÿÿÿÿ8ĞÄ¦†â-
+Fsquid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…Ìú‡â-
+—"squid:ClassVariableVisibilityCheck"]Make shpfeatureSourcel a static final constant or non-public and provide accessors if needed.(¹¦û¡ıÿÿÿÿ8èÿ¥†â-

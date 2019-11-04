@@ -1,0 +1,17 @@
+
+Œ"squid:ClassVariableVisibilityCheck"XMake feildsStatic a static final constant or non-public and provide accessors if needed.(ÒÆ18¸Ÿ®‰â-
+\squid:S1155©">Use isEmpty() to check whether the collection is empty or not.(‹¸…38¸Ÿ®‰â-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(áûÀR8¸Ÿ®‰â-
+usquid:S3776v"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğÔÚÄüÿÿÿÿ8¸Ÿ®‰â-
+Gsquid:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Ÿ®‰â-
+:squid:S1643Z"Use a StringBuilder instead.(­íã8¸Ÿ®‰â-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Ÿ®‰â-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”Àäûÿÿÿÿ8¸Ÿ®‰â-
+usquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(ÑĞÅŸÿÿÿÿÿ8¸Ÿ®‰â-
+Gsquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Ÿ®‰â-
+msquid:UselessImportCheck
+"CRemove this unused import 'org.geotools.feature.FeatureCollection'.(äÒÚ8¸Ÿ®‰â-
+Fsquid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Ÿ®‰â-
+[squid:S1155~">Use isEmpty() to check whether the collection is empty or not.(‹¸…38¸Ÿ®‰â-
+@squid:S1118"Hide this public constructor.(”Àäûÿÿÿÿ8¸Ÿ®‰â-
+Osquid:S1444"2Make this "public static feildsStatic" field final(ÒÆ18¸Ÿ®‰â-

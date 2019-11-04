@@ -1,0 +1,10 @@
+
+nsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(¡ª²Óÿÿÿÿÿ8Ø³Ž±â-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ø“œ±â-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ËÔŸûÿÿÿÿ8ý›´­â-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ñ–¢‘ýÿÿÿÿ8½×Ý±â-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8úö¼±â-
+Xsquid:S2209"5Change this instance-reference to a static reference.(²¡ÏÁûÿÿÿÿ8¡ÌÏ°â-
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(õ›‡úÿÿÿÿ8ô¸ÿ±â-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ó¢±â-
